@@ -14,4 +14,4 @@ The dataset can easily be used with [EqualizerAPO](https://sourceforge.net/proje
 Unless stated otherwise, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Further Information
-See the enclosed documentation for further information.
+See the [enclosed documentation](https://github.com/ShanonPearce/ASH-BRIRs/blob/master/Documentation/ASH%20User%20Guide.pdf) for further information.
