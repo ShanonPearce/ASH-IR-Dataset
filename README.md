@@ -11,7 +11,7 @@ A set of headphone compensation filters are provided for some commonly used head
 The dataset can easily be used with [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room, speaker configuration and headphone type in the dataset. Configurations for the HPCFs are also provided. Simply include these in your ‘config.txt’ file using the configuration editor.
 
 ## License
-Unless stated otherwise, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Further Information
-See the [enclosed documentation](https://github.com/ShanonPearce/ASH-BRIRs/blob/master/Documentation/ASH%20User%20Guide.pdf) for further information.
+See the [enclosed documentation](https://github.com/ShanonPearce/ASH-BRIRs/blob/master/Documentation/ASH%20User%20Guide.pdf) for further information about the dataset.
