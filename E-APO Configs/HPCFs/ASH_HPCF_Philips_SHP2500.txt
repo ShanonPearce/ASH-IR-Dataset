@@ -1,0 +1,2 @@
+Channel: all
+Convolution: ..\..\HPCFs\ASH_HPCF_Philips_SHP2500.wav

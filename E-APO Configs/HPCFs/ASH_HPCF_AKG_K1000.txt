@@ -1,0 +1,2 @@
+Channel: all
+Convolution: ..\..\HPCFs\ASH_HPCF_AKG_K1000.wav

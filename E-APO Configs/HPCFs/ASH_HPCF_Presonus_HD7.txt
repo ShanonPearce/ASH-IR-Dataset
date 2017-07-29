@@ -1,0 +1,2 @@
+Channel: all
+Convolution: ..\..\HPCFs\ASH_HPCF_Presonus_HD7.wav

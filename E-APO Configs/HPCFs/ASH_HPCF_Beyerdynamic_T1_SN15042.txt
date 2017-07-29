@@ -1,0 +1,2 @@
+Channel: all
+Convolution: ..\..\HPCFs\ASH_HPCF_Beyerdynamic_T1_SN15042.wav

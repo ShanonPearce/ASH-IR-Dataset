@@ -1,0 +1,2 @@
+Channel: all
+Convolution: ..\..\HPCFs\ASH_HPCF_Beyerdynamic_DT990_Pro_250_Ohm_B.wav

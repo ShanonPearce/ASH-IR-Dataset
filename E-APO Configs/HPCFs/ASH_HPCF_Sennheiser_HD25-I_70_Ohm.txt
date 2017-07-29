@@ -1,0 +1,2 @@
+Channel: all
+Convolution: ..\..\HPCFs\ASH_HPCF_Sennheiser_HD25-I_70_Ohm.wav

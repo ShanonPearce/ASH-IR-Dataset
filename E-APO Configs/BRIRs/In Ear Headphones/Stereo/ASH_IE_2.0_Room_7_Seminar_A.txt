@@ -1,0 +1,12 @@
+ASH BRIR Convolution
+Room 07: Seminar Room A
+In Ear Headphones
+Stereo configuration
+dated 24.07.2017
+ 
+Copy: L_INPUT_L_EAR=L L_INPUT_R_EAR=L R_INPUT_L_EAR=R R_INPUT_R_EAR=R
+Channel: L_INPUT_L_EAR L_INPUT_R_EAR
+Convolution: ..\..\..\..\BRIRs\IE\R7\ASH_BRIR_IE_R7_E0_A-30.wav
+Channel: R_INPUT_L_EAR R_INPUT_R_EAR
+Convolution: ..\..\..\..\BRIRs\IE\R7\ASH_BRIR_IE_R7_E0_A30.wav
+Copy: L=L_INPUT_L_EAR+R_INPUT_L_EAR R=L_INPUT_R_EAR+R_INPUT_R_EAR
