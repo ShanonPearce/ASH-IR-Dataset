@@ -1,11 +1,11 @@
 # ASH-BRIRs
-ASH is short for Audio Spatialisation for Headphones. It is an impulse response dataset that can be used for simulating spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO.
+ASH is short for Audio Spatialisation for Headphones. It is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO.
 
 ## BRIRs
-This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured in a wide variety of rooms each containing unique acoustical properties and have been compensated for headphones. So far 14 rooms have been included in the dataset. The BRIRs are provided as stereo wav files sampled at 44100Hz.
+This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured in a wide variety of rooms each containing unique acoustical properties. So far 13 rooms have been included in the dataset. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments. The BRIRs are provided as stereo wav files sampled at 44100Hz.
 
 ## HPCFs
-A set of headphone compensation filters are provided for some commonly used headphones. These can be used to equalise the listener’s headphones to the diffuse field target frequency response. The filters are minimum phase FIRs and are provided as mono wav files sampled at 44100Hz. 
+A set of headphone compensation filters are provided for some commonly used headphones. The filters can be used to equalise the listener’s headphones to the diffuse field target frequency response. The filters are minimum phase FIRs and are provided as mono wav files sampled at 44100Hz. 
 
 ## Equalizer APO configuration files
 The dataset can easily be used with [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room, speaker configuration and headphone type in the dataset. Configurations for the HPCFs are also provided. Simply include these in your ‘config.txt’ file using the configuration editor.
