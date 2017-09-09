@@ -1,2 +1,3 @@
+ASH HPCF convolution configuration
 Channel: all
 Convolution: ..\..\HPCFs\ASH_HPCF_SpeedLink_Medusa_NX.wav

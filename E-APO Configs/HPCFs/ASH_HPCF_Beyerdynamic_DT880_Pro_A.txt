@@ -1,2 +1,3 @@
-Channel: all
+ASH HPCF convolution configuration
+Channel: ALL
 Convolution: ..\..\HPCFs\ASH_HPCF_Beyerdynamic_DT880_Pro_A.wav
