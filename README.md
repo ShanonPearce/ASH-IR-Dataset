@@ -1,4 +1,4 @@
-# ASH
+# ASH IR Dataset
 ASH is short for Audio Spatialisation for Headphones. It is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO.
 
 ## BRIRs
