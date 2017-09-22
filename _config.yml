@@ -1,1 +1,5 @@
+title: ASH IR Dataset
+description: An impulse response dataset for binaural synthesis of spatial audio systems on headphones.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-slate
