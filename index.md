@@ -1,6 +1,12 @@
 ## ASH
 **ASH** (**Audio Spatialisation for Headphones**) is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO.
 
+The dataset features:
+* A comprehensive set of colouration-free BRIRs that have been compensated for circumaural headphones
+* Individual compensation filters for over 35 headphones that can be used to equalise the listener's headphones to the diffuse field target
+* A compensation filter to provide compatibility with in ear headphones
+* Configuration files that can be used to convolve BRIRs and HPCFs in Equalizer APO
+
 ## BRIRs
 This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured in a wide variety of rooms each containing unique acoustical properties. So far 13 rooms have been included in the dataset. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments on headphones. The BRIRs are provided as stereo wav files sampled at 44100Hz.
 
