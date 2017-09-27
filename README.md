@@ -1,8 +1,8 @@
 # ASH IR Dataset
-**ASH** (**Audio Spatialisation for Headphones**) is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO.
+**ASH** (**Audio Spatialisation for Headphones**) is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO. The dataset can be used to create virtual surround sound on headphones through BRIR convolution.
 
 ## BRIRs
-This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured in a wide variety of rooms each containing unique acoustical properties. So far 13 rooms have been included in the dataset. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments on headphones. The BRIRs are provided as stereo wav files sampled at 44100Hz.
+This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured using Head and Torso Simulators (HATS) in a wide variety of rooms each containing unique acoustical properties. So far 13 rooms have been included in the dataset. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments on headphones. The BRIRs are provided as stereo wav files sampled at 44100Hz.
 
 ## HPCFs
 A set of headphone compensation filters are provided for some commonly used headphones. The filters can be used to equalise the listener’s headphones to the diffuse field target frequency response. As the BRIRs have been compensated for circumaural headphones, a filter for in ear headphone compatibility has also been provided. The filters are minimum phase FIRs and are provided as mono wav files sampled at 44100Hz. 
