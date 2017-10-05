@@ -6,7 +6,7 @@ The dataset features:
 * Individual compensation filters for over 35 headphones that can be used to equalise the listener's headphones to the diffuse field target frequency response
 * A filter to provide compatibility with in ear headphones
 * Configuration files that can be used to convolve BRIRs and HPCFs in Equalizer APO
-* Configuration files for common speaker configurations (Stereo, 5.1 surround and 7.1 surround) and support for more configurations
+* Configuration files for common speaker configurations (Stereo, 5.1 surround, 7.1 surround) and support for more configurations
 
 The dataset can be used to create virtual surround sound on headphones through BRIR convolution.
 
