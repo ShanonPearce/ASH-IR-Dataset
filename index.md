@@ -2,9 +2,8 @@
 **ASH** (**Audio Spatialisation for Headphones**) is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO.
 
 The dataset features:
-* A comprehensive set of colouration-free BRIRs for 12 rooms that have been compensated for circumaural headphones
+* A comprehensive set of colouration-free BRIRs for 12 rooms that have been compensated for headphones
 * Individual compensation filters for over 35 headphones that can be used to equalise the listener's headphones to the diffuse field target frequency response
-* A filter to provide compatibility with in ear headphones
 * Configuration files that can be used to convolve BRIRs and HPCFs in Equalizer APO
 * Configuration files for common speaker configurations (Stereo, 5.1 surround, 7.1 surround) and support for more configurations
 
@@ -13,7 +12,7 @@ The dataset can be used to create virtual surround sound on headphones through B
 **Download the [latest release](https://github.com/ShanonPearce/ASH-BRIRs/releases/latest) on GitHub.**
 
 ## BRIRs
-This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured using Head and Torso Simulators (HATS) in 12 different rooms each containing unique acoustical properties. For each room a set of BRIRs are provided for a range of source directions around the head on the horizontal plane. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments on headphones. The BRIRs are provided as 2 channel WAV files sampled at 44100Hz.
+This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured using Head and Torso Simulators (HATS) in 12 different rooms, each containing unique acoustical properties. For each room a set of BRIRs are provided for a range of source directions around the head on the horizontal plane. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments on headphones. The BRIRs are provided as 2 channel WAV files sampled at 44100Hz.
 
 ## HPCFs
 A set of headphone compensation filters are provided for some commonly used headphones. The filters can be used to equalise individual headphones to the diffuse-field target frequency response. Headphone equalisation is recommended as the BRIRs have been compensated for circumaural headphones that are correctly diffuse-field equalised. A filter to provide compatibility with in ear headphones has also been provided. The filters are minimum phase FIRs and are provided as single channel WAV files sampled at 44100Hz. 
