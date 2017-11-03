@@ -9,7 +9,7 @@ The dataset features:
 
 The dataset can be used to create virtual surround sound on headphones through BRIR convolution.
 
-**Download the [latest release](https://github.com/ShanonPearce/ASH-BRIRs/releases/latest) on GitHub.**
+**The [latest release](https://github.com/ShanonPearce/ASH-BRIRs/releases/latest) of the dataset can be downloaded from the GitHub repository.**
 
 ## BRIRs
 This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured using Head and Torso Simulators (HATS) in 12 different rooms, each containing unique acoustical properties. For each room a set of BRIRs are provided for a range of source directions around the head on the horizontal plane. The frequency response of each BRIR has been compensated to remove sources of colouration and allow for accurate binaural synthesis of acoustic environments on headphones. The BRIRs are provided as 2 channel WAV files sampled at 44100Hz.
