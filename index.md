@@ -2,7 +2,7 @@
 
 ### Features
 The dataset currently features:
-* A comprehensive set of colouration-free BRIRs for over 16 rooms
+* A comprehensive set of processed BRIRs for over 16 rooms
 * Individual compensation filters for over 35 headphones that can be used to equalise the listener's headphones to the diffuse-field target frequency response
 * Configuration files that can be used to convolve BRIRs and HPCFs in Equalizer APO
 * Configuration files for common speaker configurations (Stereo, 5.1 surround, 7.1 surround) and support for more configurations
