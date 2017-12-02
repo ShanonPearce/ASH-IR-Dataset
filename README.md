@@ -15,3 +15,5 @@ Unless otherwise stated, all files in this repository are licensed under Creativ
 
 ## Further Information
 Refer to the [Wiki](https://github.com/ShanonPearce/ASH-BRIRs/wiki) for more information about the dataset including [configuration instructions](https://github.com/ShanonPearce/ASH-BRIRs/wiki/Equalizer-APO-Configuration).
+
+[![Join the chat at https://gitter.im/ASH-BRIRs/Lobby](https://badges.gitter.im/ASH-BRIRs/Lobby.svg)](https://gitter.im/ASH-BRIRs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
