@@ -1,11 +1,11 @@
 [![Join the chat at https://gitter.im/ShanonPearce/ASH-IR-Dataset](https://badges.gitter.im/ShanonPearce/ASH-IR-Dataset.svg)](https://gitter.im/ShanonPearce/ASH-IR-Dataset?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**ASH** (**Audio Spatialisation for Headphones**) is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HPCFs) and configuration files for Equalizer APO. The dataset can be used to create virtual surround sound on headphones through BRIR convolution.
+**ASH** (**Audio Spatialisation for Headphones**) is an impulse response dataset that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HpCFs) and configuration files for Equalizer APO. The dataset can be used to create virtual surround sound on headphones through BRIR convolution.
 
 ### Features
 The dataset currently features:
-* A comprehensive set of processed BRIRs for over 16 rooms
-* Individual compensation filters for over 35 headphones that can be used to equalise the listener's headphones to the diffuse-field target frequency response
+* A comprehensive set of processed BRIRs for a variety of rooms
+* Individual compensation filters for a range of headphones that can be used to equalise the listener's headphones to the diffuse-field target frequency response
 * Configuration files that can be used to convolve BRIRs and HPCFs in Equalizer APO
 * Configuration files for common speaker configurations (Stereo, 5.1 surround, 7.1 surround) and support for more configurations
 
@@ -19,10 +19,10 @@ A set of headphone compensation filters are provided for some commonly used head
 This dataset can be used with [Equalizer APO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room in the dataset and for a range of speaker configurations. Configuration files for HPCF convolution are also provided. A configuration file can be included in your ‘config.txt’ file using the 'Include' control in the configuration editor. The dataset must be placed within the Equalizer APO directory for the configurations to be read.
 
 ### Latest Release
-The latest release of the dataset can be downloaded from the [GitHub repository](https://github.com/ShanonPearce/ASH-BRIRs), in the [Releases](https://github.com/ShanonPearce/ASH-BRIRs/releases) page.
+The latest release of the dataset can be downloaded from the [GitHub repository](https://github.com/ShanonPearce/ASH-IR-Dataset), in the [Releases](https://github.com/ShanonPearce/ASH-IR-Dataset/releases) page.
 
 ### License
 Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ### Further Information
-Refer to the [Wiki](https://github.com/ShanonPearce/ASH-BRIRs/wiki) for more information about the dataset including [configuration instructions](https://github.com/ShanonPearce/ASH-BRIRs/wiki/Equalizer-APO-Configuration).
+Refer to the [Wiki](https://github.com/ShanonPearce/ASH-IR-Dataset/wiki) for more information about the dataset including [configuration instructions](https://github.com/ShanonPearce/ASH-IR-Dataset/wiki/Equalizer-APO-Configuration).
