@@ -14,6 +14,6 @@ This dataset can be used with [Equalizer APO](https://sourceforge.net/projects/e
 Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Further Information
-Refer to the [Wiki](https://github.com/ShanonPearce/ASH-BRIRs/wiki) for more information about the dataset including [configuration instructions](https://github.com/ShanonPearce/ASH-BRIRs/wiki/Equalizer-APO-Configuration).
+Refer to the [Wiki](https://github.com/ShanonPearce/ASH-IR-Dataset/wiki) for more information about the dataset including [configuration instructions](https://github.com/ShanonPearce/ASH-IR-Dataset/wiki/Equalizer-APO-Configuration).
 
 [![Join the chat at https://gitter.im/ShanonPearce/ASH-IR-Dataset](https://badges.gitter.im/ShanonPearce/ASH-IR-Dataset.svg)](https://gitter.im/ShanonPearce/ASH-IR-Dataset?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
