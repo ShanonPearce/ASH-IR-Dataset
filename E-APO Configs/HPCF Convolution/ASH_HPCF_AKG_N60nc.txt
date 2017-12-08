@@ -1,3 +1,0 @@
-ASH HPCF convolution configuration
-Channel: all
-Convolution: ..\..\HPCFs\ASH_HPCF_AKG_N60nc.wav

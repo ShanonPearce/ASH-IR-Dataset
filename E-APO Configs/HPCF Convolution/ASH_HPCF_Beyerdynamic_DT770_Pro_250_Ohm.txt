@@ -1,3 +1,0 @@
-ASH HPCF convolution configuration
-Channel: all
-Convolution: ..\..\HPCFs\ASH_HPCF_Beyerdynamic_DT770_Pro_250_Ohm.wav

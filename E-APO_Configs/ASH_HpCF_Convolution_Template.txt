@@ -1,0 +1,6 @@
+ASH IR dataset
+HpCF convolution configuration for Equalizer APO
+Dated 07.12.2017
+Select a headphone compensation filter
+Channel: all
+Convolution: ..\HpCFs\ASH_HpCF_AudioQuest_Nighthawk_A.wav
