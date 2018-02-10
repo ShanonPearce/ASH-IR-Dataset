@@ -1,6 +1,6 @@
 BRIR convolution configuration for Equalizer APO
 Requires BRIRs from the ASH IR dataset
-Room: Seminar Room B
+Room: Lecture Room
 Speaker setup: 5.1 Surround
 Dated: 10.02.2018
  
