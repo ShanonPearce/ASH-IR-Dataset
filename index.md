@@ -4,7 +4,7 @@ The **Audio Spatialisation for Headphones** (**ASH**) Impulse Response dataset i
 The dataset currently features:
 * A comprehensive set of compensated BRIRs
 * A variety of rooms to simulate including control rooms, listening rooms, studios, and more
-* Individual compensation filters for a range of headphones that can be used to equalise the listener's headphones to the diffuse-field target frequency response
+* A set of compensation filters that can be used to equalise a wide range of headphones to the diffuse-field target frequency response
 * Configuration files that can be used to convolve BRIRs and HpCFs in Equalizer APO
 * Configuration files for common speaker configurations (Stereo, 5.1 surround, 7.1 surround) and support for more configurations
 
