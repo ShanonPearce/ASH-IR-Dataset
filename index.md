@@ -4,7 +4,7 @@ The **Audio Spatialisation for Headphones** (**ASH**) Impulse Response dataset i
 The dataset currently features:
 * A comprehensive set of compensated BRIRs
 * A variety of rooms to simulate including control rooms, listening rooms, studios, and more
-* A comprehensive set of compensation filters that can be used to equalise a wide range of headphones to the diffuse-field target frequency response
+* A set of compensation filters that can be used to equalise a wide range of headphones to the diffuse-field target frequency response
 * Configuration files that can be used to convolve BRIRs and HpCFs in Equalizer APO
 * Configuration files for common speaker configurations (Stereo, 5.1 surround, 7.1 surround) and support for more configurations
 
@@ -12,7 +12,7 @@ The dataset currently features:
 This dataset contains BRIRs derived from a range of freely available BRIR datasets. The BRIRs were measured using Head and Torso Simulators (HATS) in a variety of rooms, each containing unique acoustical properties. For each room, a set of BRIRs are provided for a range of source directions around the head on the horizontal plane. The frequency responses of the BRIRs have been compensated to minimise undesired spectral distortions and improve the plausibility of binaural simulations of the rooms on diffuse-field equalised headphones. The BRIRs are provided as 2 channel WAV files sampled at 44100Hz.
 
 ### Headphone Compensation Filters
-A set of headphone compensation filters are provided for a wide range of commonly used headphones. The filters can be used to equalise individual headphones to the diffuse-field target frequency response. Individual headphone equalisation is recommended to minimise undesired spectral distortions from the listener's headphones and improve the plausibility of the binaural simulations. The filters are minimum phase FIRs and are provided as single channel WAV files sampled at 44100Hz. 
+A set of headphone compensation filters is provided for a wide range of commonly used headphones. The filters can be used to equalise individual headphones to the diffuse-field target frequency response. Individual headphone equalisation is recommended to minimise undesired spectral distortions from the listener's headphones and improve the plausibility of the binaural simulations. The filters are minimum phase FIRs and are provided as single channel WAV files sampled at 44100Hz. 
 
 ### Equalizer APO Configuration Files
 This dataset can be used with [Equalizer APO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room in the dataset and for a range of speaker configurations. Configuration files for HpCF convolution are also provided. A configuration file can be included in your ‘config.txt’ file using the 'Include' control in the configuration editor. The dataset must be placed within the Equalizer APO directory for the configurations to be read.
