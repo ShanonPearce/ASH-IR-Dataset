@@ -12,9 +12,9 @@ Convolution: ..\..\..\BRIRs\R14\ASH_BRIR_R14_P1_E0_A30.wav
 Channel: C_INPUT_L_EAR C_INPUT_R_EAR
 Convolution: ..\..\..\BRIRs\R14\ASH_BRIR_R14_P1_E0_A0.wav
 Channel: RL_INPUT_L_EAR RL_INPUT_R_EAR
-Convolution: ..\..\..\BRIRs\R14\ASH_BRIR_R14_P1_E0_A-90.wav
+Convolution: ..\..\..\BRIRs\R06\ASH_BRIR_R06_P1_E0_A-135.wav
 Channel: RR_INPUT_L_EAR RR_INPUT_R_EAR
-Convolution: ..\..\..\BRIRs\R14\ASH_BRIR_R14_P1_E0_A90.wav
+Convolution: ..\..\..\BRIRs\R06\ASH_BRIR_R06_P1_E0_A135.wav
 Channel: SL_INPUT_L_EAR SL_INPUT_R_EAR
 Convolution: ..\..\..\BRIRs\R14\ASH_BRIR_R14_P1_E0_A-90.wav
 Channel: SR_INPUT_L_EAR SR_INPUT_R_EAR
