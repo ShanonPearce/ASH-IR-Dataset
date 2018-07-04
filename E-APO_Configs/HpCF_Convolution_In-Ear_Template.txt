@@ -1,7 +1,7 @@
 HpCF convolution configuration for Equalizer APO
 Requires HpCFs from the ASH IR dataset
-Dated: 12.05.2018
+Dated: 04.07.2018
 Channel: all
-Convolution: ..\HpCFs\ASH_HpCF_In-Ear_Headphones_Compatibility.wav
+Convolution: ..\Compatibility_Filters\ASH_Compatibility_In-Ear_Headphones.wav
 Select a Headphone Compensation Filter
 Convolution: ..\HpCFs\ASH_HpCF_In-Ear_Headphones_Avg.wav

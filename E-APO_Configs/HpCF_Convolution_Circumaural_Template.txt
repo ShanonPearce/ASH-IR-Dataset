@@ -2,5 +2,5 @@ HpCF convolution configuration for Equalizer APO
 Requires HpCFs from the ASH IR dataset
 Dated: 15.01.2018
 Select a Headphone Compensation Filter
-Channel: all
+Channel: ALL
 Convolution: ..\HpCFs\ASH_HpCF_AudioQuest_Nighthawk_A.wav
