@@ -4,4 +4,4 @@ Dated: 04.07.2018
 Channel: all
 Convolution: ..\Compatibility_Filters\ASH_Compatibility_In-Ear_Headphones.wav
 Select a Headphone Compensation Filter
-Convolution: ..\HpCFs\ASH_HpCF_In-Ear_Headphones_Avg.wav
+Convolution: ..\HpCFs\Additional_Filters\ASH_HpCF_In-Ear_Headphones_Avg.wav
