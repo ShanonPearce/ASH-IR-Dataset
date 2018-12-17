@@ -16,4 +16,3 @@ Unless otherwise stated, all files in this repository are licensed under Creativ
 ## Further Information
 Refer to the [Wiki](https://github.com/ShanonPearce/ASH-IR-Dataset/wiki) for more information about the dataset including [configuration instructions](https://github.com/ShanonPearce/ASH-IR-Dataset/wiki/Equalizer-APO-Configuration).
 
-[![Join the chat at https://gitter.im/ShanonPearce/ASH-IR-Dataset](https://badges.gitter.im/ShanonPearce/ASH-IR-Dataset.svg)](https://gitter.im/ShanonPearce/ASH-IR-Dataset?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
