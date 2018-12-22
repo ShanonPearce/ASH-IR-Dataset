@@ -1,6 +1,6 @@
 HpCF convolution configuration for Equalizer APO
-Dated: 25.09.2018
+Dated: 19.12.2018
 Channel: all
-Convolution: ..\Compatibility_Filters\ASH_Compatibility_On-Ear_Headphones.wav
+Convolution: ..\Compatibility_Filters\Compatibility_On-Ear_Headphones.wav
 Select a Headphone Compensation Filter
-Convolution: ..\HpCFs\Oppo\ASH_HpCF_Oppo_PM3_Avg.wav
+Convolution: ..\HpCFs\Oppo\HpCF_Oppo_PM3_Avg.wav
