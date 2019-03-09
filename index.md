@@ -1,4 +1,4 @@
-The **Audio Spatialisation for Headphones** (**ASH**) Impulse Response Dataset is a set of impulse responses that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HpCFs) and configuration files for Equalizer APO. The dataset can be used to create virtual surround sound on headphones by convolving an audio stream with a set of BRIRs.
+The **Audio Spatialisation for Headphones Impulse Response Dataset**  (**ASH IR Dataset**) is a set of impulse responses that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HpCFs) and configuration files for Equalizer APO. The dataset can be used to create virtual surround sound on headphones by convolving an audio stream with a set of BRIRs.
 
 ### Features
 The dataset currently features:
