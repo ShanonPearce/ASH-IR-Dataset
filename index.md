@@ -4,7 +4,7 @@ The **Audio Spatialisation for Headphones Impulse Response Dataset**  (**ASH IR 
 The dataset currently features:
 * A set of equalised binaural room impulse responses that can be used to simulate a variety of rooms including control rooms, listening rooms, seminar rooms, studios, and more
 * A set of compensation filters that can be used to equalise a wide range of headphones to the diffuse-field target frequency response
-* A set of configuration files for Equalizer APO that can be used to simulate common speaker configurations (Stereo, 5.1 surround, and 7.1 surround) within the rooms.
+* A set of configuration files for Equalizer APO that can be used to simulate common speaker configurations (Stereo, 5.1 surround, 7.1 surround) within the rooms.
 
 ### Binaural Room Impulse Responses
 The dataset includes a set of BRIRs that were derived from a range of freely available BRIR datasets. The BRIRs were measured using head and torso simulators (HATS) in a variety of reverberant rooms, each containing unique acoustical properties. For each room, a set of BRIRs are provided for a range of source directions around the head on the horizontal plane. The BRIRs have been equalised to remove undesired spectral colouration and to make the BRIRs compatible with diffuse-field equalised headphones. The BRIRs are provided as 2 channel WAV files with a sampling rate of 44100Hz.
