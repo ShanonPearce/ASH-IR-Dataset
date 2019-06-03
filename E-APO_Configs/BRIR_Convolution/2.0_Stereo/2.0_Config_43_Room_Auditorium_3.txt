@@ -1,0 +1,12 @@
+BRIR convolution configuration for Equalizer APO
+Room: Room Auditorium 3, TU Berlin
+Position: 1
+Speaker setup: 2.0 Stereo
+Dated: 31.05.2019
+ 
+Copy: L_INPUT_L_EAR=L L_INPUT_R_EAR=L R_INPUT_L_EAR=R R_INPUT_R_EAR=R
+Channel: L_INPUT_L_EAR L_INPUT_R_EAR
+Convolution: ..\..\..\BRIRs\R10\BRIR_R10_P1_E0_A-30.wav
+Channel: R_INPUT_L_EAR R_INPUT_R_EAR
+Convolution: ..\..\..\BRIRs\R10\BRIR_R10_P1_E0_A30.wav
+Copy: L=L_INPUT_L_EAR+R_INPUT_L_EAR R=L_INPUT_R_EAR+R_INPUT_R_EAR
