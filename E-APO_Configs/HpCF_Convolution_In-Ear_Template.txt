@@ -3,4 +3,4 @@ Dated: 25.05.2019
 Channel: all
 Convolution: ..\Compatibility_Filters\Compatibility_In-Ear_Headphones.wav
 Select a Headphone Compensation Filter
-Convolution: ..\HpCFs\Additional_Filters\Diffue-Field_EQ_for_In-Ear_Headphones.wav
+Convolution: ..\HpCFs\HpCF_Mee_Audio_Planamic_IEM.wav
