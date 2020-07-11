@@ -2,7 +2,7 @@ BRIR convolution configuration for Equalizer APO
 Room: Seminar Room, TU Ilmenau 
 Position: 1
 Speaker setup: 2.0 Stereo
-Dated: 06.06.2020
+Dated: 11.07.2020
  
 Copy: L_INPUT_L_EAR=L L_INPUT_R_EAR=L R_INPUT_L_EAR=R R_INPUT_R_EAR=R
 Channel: L_INPUT_L_EAR L_INPUT_R_EAR
