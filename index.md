@@ -16,7 +16,7 @@ The dataset also includes compensation filters for a wide range of commonly used
 This dataset can be used with [Equalizer APO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room in the dataset and for a range of speaker configurations. Example configuration files for HpCF convolution are also provided. A configuration file can be included in your ‘config.txt’ file using the 'Include' control in the configuration editor.
 
 ### Latest Release
-The latest release of the dataset can be downloaded from the [GitHub repository](https://github.com/ShanonPearce/ASH-IR-Dataset/releases/latest).
+The latest release of the dataset can be downloaded from the [GitHub repository](https://github.com/ShanonPearce/ASH-IR-Dataset/releases/latest) or the [Zenodo repository](https://doi.org/10.5281/zenodo.4780815).
 
 ### License
 Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
