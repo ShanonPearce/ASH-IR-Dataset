@@ -1,4 +1,4 @@
-### Please visit the [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set) repository for the latest iteration of this project. It includes an updated set of BRIRs and HpCFs.
+## Please visit the [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set) repository for the latest iteration of this project. It includes an updated set of BRIRs and HpCFs.
 ***
 ## ASH IR Dataset
 The **Audio Spatialisation for Headphones** (**ASH**) Impulse Response Dataset is a set of impulse responses that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HpCFs) and configuration files for Equalizer APO. The dataset can be used to create spatial surround sound on headphones by convolving an audio stream with a set of BRIRs and a HpCF.
@@ -10,7 +10,7 @@ The dataset includes a set of BRIRs that were derived from a range of publicly a
 The dataset also includes compensation filters for a wide range of commonly used headphones. The filters can be used to equalise individual headphones to the diffuse-field target frequency response. Individual headphone equalisation is recommended to compensate for undesired spectral colouration introduced by the listener's headphones and to improve the plausibility of the binaural simulations. The filters are provided as single channel WAV files with a sampling rate of 44100Hz. Magnitude response plots of the filters are also provided.
 
 ## Equalizer APO Configuration Files
-The dataset can be used with [Equalizer APO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room in the dataset and for a range of speaker configurations. Example configuration files for HpCF convolution are also provided. A configuration file can be included in your ‘config.txt’ file using the 'Include' control in the configuration editor.
+The dataset can be used with [Equalizer APO](https://sourceforge.net/projects/equalizerapo/), an Audio Processing Object (APO) for windows featuring convolution capabilities. Configuration files for BRIR convolution are provided for each room in the dataset and for a range of speaker configurations. Sample configuration files for HpCF convolution are also provided. A configuration file can be included in your ‘config.txt’ file using the 'Include' control in the configuration editor.
 
 ## License
 Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
