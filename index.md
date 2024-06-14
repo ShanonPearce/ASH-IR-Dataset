@@ -1,4 +1,5 @@
-### Please visit the [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set) repository for the latest iteration of this project. It includes an updated set of BRIRs and HpCFs.
+### Visit the [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set) repository for the latest iteration of this dataset. It includes an updated set of BRIRs and HpCFs.
+### Also visit the [ASH-Toolset](https://sourceforge.net/projects/ash-toolset/) project for a windows application that can be used to generate customised BRIRs. The application also includes HpCFs and can be used as an alternative to this dataset.
 ***
 
 The **Audio Spatialisation for Headphones** (**ASH**) Impulse Response Dataset is a set of impulse responses that can be used for binaural synthesis of spatial audio systems on headphones. It includes binaural room impulse responses (BRIRs), headphone compensation filters (HpCFs) and configuration files for Equalizer APO. The dataset can be used to create spatial surround sound on headphones by convolving an audio stream with a set of BRIRs and a HpCF.
